@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SnackBarDemo</string>
+    <string name="with_action_message">Your wifi connection has been disconnected. Please retry.</string>
+    <string name="internet_available">Your wifi connection has been re-established.</string>
+    <string name="no_internet">You are currently not connected to a wifi network.</string>
+    <string name="no_action_message">No action is being taken.</string>
+</resources>
